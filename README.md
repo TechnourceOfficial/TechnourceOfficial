@@ -1,7 +1,7 @@
 # About us
 Hello and Welcome
 
-We are [Technource](https://www.technource.com/inquiry/), where you get development solutions according to your business objectives. Our developers believe in delivering value on time for customized apps and websites. They have expertise in using frameworks like Angular JS, React JS, Vue JS, Node JS, Laravel, Ionic, and many more. Our developers have built scalable, secure, and engaging solutions for various industries.
+We are [Technource](https://www.technource.com), where you get development solutions according to your business objectives. Our developers believe in delivering value on time for customized apps and websites. They have expertise in using frameworks like Angular JS, React JS, Vue JS, Node JS, Laravel, Ionic, and many more. Our developers have built scalable, secure, and engaging solutions for various industries.
 
 **Our Frameworks of Expertise**
 
