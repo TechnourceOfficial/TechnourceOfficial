@@ -16,9 +16,13 @@ With 13+ years of experience and 1000+ projects delivered globally, we engineer 
 Technologies We Work With
 
 **Frontend:** React.js, Next.js, Vue.js, Angular
+
 **Backend:** Node.js, NestJS, Laravel
+
 **Mobile:** Flutter, React Native, Kotlin, Swift
+
 **AI & Data:** Python, OpenAI, LangChain, RAG, Vector Databases
+
 **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, CI/CD
 
 We build technology solutions for industries including Healthcare, FinTech, Real Estate, eCommerce, EdTech, Logistics, CleanTech, and Business Automation.
