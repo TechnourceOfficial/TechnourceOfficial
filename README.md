@@ -19,7 +19,7 @@ With 13+ years of experience and 1000+ projects delivered globally, we engineer 
     
     - System Modernization & Scalable Architecture
     
-Technologies We Work With
+**Technologies We Work With**
 
 **Frontend:** React.js, Next.js, Vue.js, Angular
 
